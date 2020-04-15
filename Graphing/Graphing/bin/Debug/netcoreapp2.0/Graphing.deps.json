@@ -1,0 +1,38 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "62bc2cafed0fe7ec1722ce255dddca7664ee92f4"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Graphing/1.0.0": {
+        "dependencies": {
+          "GnuplotCSharp": "1.0.0.1"
+        },
+        "runtime": {
+          "Graphing.dll": {}
+        }
+      },
+      "GnuplotCSharp/1.0.0.1": {
+        "runtime": {
+          "lib/GnuplotCSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Graphing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GnuplotCSharp/1.0.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-r9gQtiJOm+DBcMNF03LjMeNX+usH6oQLNtccD6fZRxxP1iwQRAb8imud80OdonprWhXWv8rOQ3niATw6HlLCTw==",
+      "path": "gnuplotcsharp/1.0.0.1",
+      "hashPath": "gnuplotcsharp.1.0.0.1.nupkg.sha512"
+    }
+  }
+}

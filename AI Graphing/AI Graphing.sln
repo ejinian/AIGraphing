@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI Graphing", "AI Graphing\AI Graphing.csproj", "{DC3B1434-9A1F-4E73-9E0E-FAD080D876FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC3B1434-9A1F-4E73-9E0E-FAD080D876FC}.Debug|ARM.ActiveCfg = Debug|ARM
+		{DC3B1434-9A1F-4E73-9E0E-FAD080D876FC}.Debug|ARM.Build.0 = Debug|ARM
+		{DC3B1434-9A1F-4E73-9E0E-FAD080D876FC}.Debug|ARM.Deploy.0 = Debug|ARM
+		{DC3B1434-9A1F-4E73-9E0E-FAD080D876FC}.Debug|x64.ActiveCfg = Debug|x64
+		{DC3B1434-9A1F-4E73-9E0E-FAD080D876FC}.Debug|x64.Build.0 = Debug|x64
+		{DC3B1434-9A1F-4E73-9E0E-FAD080D876FC}.Debug|x64.Deploy.0 = Debug|x64
+		{DC3B1434-9A1F-4E73-9E0E-FAD080D876FC}.Debug|x86.ActiveCfg = Debug|x86
+		{DC3B1434-9A1F-4E73-9E0E-FAD080D876FC}.Debug|x86.Build.0 = Debug|x86
+		{DC3B1434-9A1F-4E73-9E0E-FAD080D876FC}.Debug|x86.Deploy.0 = Debug|x86
+		{DC3B1434-9A1F-4E73-9E0E-FAD080D876FC}.Release|ARM.ActiveCfg = Release|ARM
+		{DC3B1434-9A1F-4E73-9E0E-FAD080D876FC}.Release|ARM.Build.0 = Release|ARM
+		{DC3B1434-9A1F-4E73-9E0E-FAD080D876FC}.Release|ARM.Deploy.0 = Release|ARM
+		{DC3B1434-9A1F-4E73-9E0E-FAD080D876FC}.Release|x64.ActiveCfg = Release|x64
+		{DC3B1434-9A1F-4E73-9E0E-FAD080D876FC}.Release|x64.Build.0 = Release|x64
+		{DC3B1434-9A1F-4E73-9E0E-FAD080D876FC}.Release|x64.Deploy.0 = Release|x64
+		{DC3B1434-9A1F-4E73-9E0E-FAD080D876FC}.Release|x86.ActiveCfg = Release|x86
+		{DC3B1434-9A1F-4E73-9E0E-FAD080D876FC}.Release|x86.Build.0 = Release|x86
+		{DC3B1434-9A1F-4E73-9E0E-FAD080D876FC}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {127CFCBB-A431-4BE9-AD97-733B673A8D8B}
+	EndGlobalSection
+EndGlobal
